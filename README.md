@@ -26,9 +26,10 @@ AI를 통해 cctv에 비치는 급식실 모습으로 급식실에 사람이 얼
 
 ## LAYOUT
 
-![1](https://user-images.githubusercontent.com/82490973/190172377-e1bde34b-8a42-408f-a56e-41f554bf3b9b.png)
-![2](https://user-images.githubusercontent.com/82490973/190172363-09a3e6ab-35aa-48de-9106-aafbfac59fc0.png)
-![3](https://user-images.githubusercontent.com/82490973/190172373-9a7be1e7-ee68-4e47-b69f-c364cacfbd4a.png)
+![1](https://user-images.githubusercontent.com/82490973/190173323-0c7a3f7f-d1dc-48fd-94aa-8861673606f7.png)
+![3](https://user-images.githubusercontent.com/82490973/190173312-e6d701ab-1c49-496d-b51d-d27269021227.png)
+![2](https://user-images.githubusercontent.com/82490973/190173361-f09f7b25-47b4-4051-b413-29d6c3d5b8f0.png)
+
 
 ## Database 구상(ERD)
 
@@ -40,6 +41,6 @@ AI를 통해 cctv에 비치는 급식실 모습으로 급식실에 사람이 얼
 
 ## 예상 효과
 
-[ ] 급식을 기다리는 시간을 최소화할 수 있다.
+급식을 기다리는 시간을 최소화할 수 있다.
 
-[ ] 급식실에서 자리가 부족해지는 현상을 줄일 수 있다.
+급식실에서 자리가 부족해지는 현상을 줄일 수 있다.
