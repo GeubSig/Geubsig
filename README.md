@@ -37,7 +37,7 @@ AI를 통해 cctv에 비치는 급식실 모습으로 급식실에 사람이 얼
 
 ## 개발 프로세스 과정
 
-![image](https://user-images.githubusercontent.com/82490973/190172791-a7749013-2404-45ad-8d54-4b48207744c7.png)
+![image](https://user-images.githubusercontent.com/79764169/190343478-15d565f6-5f9b-4ad4-8174-a7bbe06ada79.png)
 
 ## 예상 효과
 
