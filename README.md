@@ -17,7 +17,7 @@ AI를 이용한 오브젝트 구분 & 데이터 시각화
 
 ## 개발 스택
 
-1. Python : Tensorflow, YOLO v5, Django, numpy & pandas
+1. Python - Tensorflow, YOLO v5, Django, numpy & pandas
 2. React
 
 ## 구현하고자 하는 기능
@@ -41,6 +41,6 @@ AI를 통해 cctv에 비치는 급식실 모습으로 급식실에 사람이 얼
 
 ## 예상 효과
 
-급식을 기다리는 시간을 최소화할 수 있다.
-
-급식실에서 자리가 부족해지는 현상을 줄일 수 있다.
+급식 기다리는 시간 최소화
+급식실 자리부족 현상 감소
+유입 인원 예측으로 급식 잔반 감소
