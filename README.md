@@ -17,7 +17,7 @@ AI를 이용한 오브젝트 구분 & 데이터 시각화
 
 ## 개발 스택
 
-1. Python - Tensorflow, YOLO v5, Django, numpy & pandas
+1. Python - Pytorch, YOLO v5, Django, numpy & pandas
 2. React
 
 ## 구현하고자 하는 기능
