@@ -33,7 +33,7 @@ AI를 통해 cctv에 비치는 급식실 모습으로 급식실에 사람이 얼
 
 ## Database 구상(ERD)
 
-![image](https://user-images.githubusercontent.com/82490973/190172685-3e18667a-8da7-4e9f-aaee-09463d86ff46.png)
+![image](https://user-images.githubusercontent.com/79764169/209784576-7973b3fb-220c-4be6-9506-ea5a21d42092.png)
 
 ## 개발 프로세스 과정
 
