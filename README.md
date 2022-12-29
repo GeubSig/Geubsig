@@ -18,7 +18,7 @@ AI를 이용한 오브젝트 구분 & 데이터 시각화
 ## 개발 스택
 
 1. Python - Pytorch, YOLO v5, Django, numpy & pandas
-2. React
+2. React.js
 
 ## 구현하고자 하는 기능
 
@@ -26,18 +26,21 @@ AI를 통해 cctv에 비치는 급식실 모습으로 급식실에 사람이 얼
 
 ## LAYOUT
 
-![1](https://user-images.githubusercontent.com/82490973/190173323-0c7a3f7f-d1dc-48fd-94aa-8861673606f7.png)
-![3](https://user-images.githubusercontent.com/82490973/190173312-e6d701ab-1c49-496d-b51d-d27269021227.png)
-![2](https://user-images.githubusercontent.com/82490973/190173361-f09f7b25-47b4-4051-b413-29d6c3d5b8f0.png)
+![1](https://user-images.githubusercontent.com/79764169/209899548-589d9517-d06f-481e-96ef-1e02329648c7.png)
+![3](https://user-images.githubusercontent.com/79764169/209899586-65241196-5865-4674-bf3a-5b8eefa8adac.png)
 
 
 ## Database 구상(ERD)
 
-![image](https://user-images.githubusercontent.com/79764169/209784576-7973b3fb-220c-4be6-9506-ea5a21d42092.png)
+![image](https://user-images.githubusercontent.com/79764169/209899611-999418b8-3c5b-44fa-9770-e179957ac541.png)
 
 ## 개발 프로세스 과정
 
 ![image](https://user-images.githubusercontent.com/79764169/190343478-15d565f6-5f9b-4ad4-8174-a7bbe06ada79.png)
+
+## 세부 수행 과정
+
+![image](https://user-images.githubusercontent.com/79764169/209899466-7271989b-d3ec-4938-a7fa-0c17fecd26e9.png)
 
 ## 예상 효과
 
